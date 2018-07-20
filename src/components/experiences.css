@@ -1,0 +1,38 @@
+.expstyle{
+    background:linear-gradient(to left, rgba(255,0,0,0), rgb(50,128, 255));
+    position: relative;
+    border-radius: 25px;
+    width: 98%;
+    height: 98%; 
+    padding: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    color:white;
+    box-align: inherit;
+    text-align: initial;
+    font-variant: small-caps;
+    font-style: oblique;
+    font-weight: 900;
+}
+.defstyle{
+    font-style: italic;
+    font-weight: 20;
+}
+
+.styleimage{
+    width: 100px;
+    height: 100px;
+    float:left;
+    clear:both;
+    padding: 10px;
+    border-radius: 50%;
+}
+h1{
+    text-shadow: 2px 2px 6px #000000;
+    font-weight: 800;
+}
+.barwidth{
+    width:70%
+}
+.contenuSpoiler {
+    display: none;
+}

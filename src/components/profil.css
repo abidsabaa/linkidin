@@ -1,0 +1,28 @@
+.profilstyle{
+    background: url( https://images.pexels.com/photos/953214/pexels-photo-953214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) left ;  
+    position: initial;
+    border-radius: 25px;
+    padding: 20px; 
+    width: 98%;
+    height: 98%; 
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    color:white;
+    box-align: inherit;
+    text-align: initial;
+    font-variant: normal;
+    font-style: oblique;
+    background-repeat: no-repeat;
+    background-blend-mode: luminosity;
+    font-weight: 900;
+}
+.styleimage1{
+    width: 200px;
+    height: 200px;
+    float:left;
+    clear:both;
+    padding: 10px;
+    border-radius: 50%;
+}
+.iconstyle{
+    color: black;
+}
